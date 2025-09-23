@@ -106,5 +106,6 @@ finally:
     print("Communication closed. The program has been terminated.")
     print("Discord: Matyas66055")
     print("Instagram: Matyas66055")
-    print("https://inovation.tk/")
-    print("Email: matysek66055@gmail.com")
+    print("https://matyaskrabica.cz/")
+    print("Email: info@matyaskrabica.cz")
+
