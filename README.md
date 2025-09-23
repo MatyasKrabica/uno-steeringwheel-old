@@ -1,3 +1,5 @@
+# Old Project!!!
+
 The Arduino Uno steering wheel operates on the principle of translating physical movements into digital signals for control. Essentially, it functions through a series of components and processes: a 90-degree clockwise (90C) rotation of the wheel, Python script for serial communication, analog pins for potentiometer readings ranging from 0 to 1023 (equivalent to -1 to 1), and digital pins for button usage. Additionally, separate power sources are required for the pedal potentiometers to ensure that the Arduino can handle the load without overloading (up to 3 pedals).
 
 The Arduino Uno serves as the central processing unit for this setup. It receives input from the steering wheel's rotation, which is converted into analog signals through potentiometers. These analog signals are then read by the Arduino Uno through its analog input pins. The range of values from 0 to 1023 represents the full range of rotation, mapped to a scale of -1 to 1 for ease of interpretation.
